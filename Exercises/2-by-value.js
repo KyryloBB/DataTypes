@@ -2,7 +2,7 @@
 
 const inc = (obj) => {
  if(typeof obj === "Object") {
-    obj.n = {new:a};
+    obj.n = {new:"a"};
  }
 } ;
 
